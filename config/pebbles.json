@@ -1,0 +1,36 @@
+{
+  "pebbles": {
+    "spawning": {
+      "comment": "Allows the general spawning of pebbles.",
+      "value": true
+    },
+    "stone_pebbles": {
+      "comment": "Allows the spawning of stone pebbles.",
+      "value": true
+    },
+    "andesite_pebbles": {
+      "comment": "Allows the spawning of andesite pebbles.",
+      "value": true
+    },
+    "diorite_pebbles": {
+      "comment": "Allows the spawning of diorite pebbles.",
+      "value": true
+    },
+    "granite_pebbles": {
+      "comment": "Allows the spawning of granite pebbles.",
+      "value": true
+    },
+    "basalt_pebbles": {
+      "comment": "Allows the spawning of basalt pebbles.",
+      "value": true
+    },
+    "blackstone_pebbles": {
+      "comment": "Allows the spawning of blackstone pebbles.",
+      "value": true
+    },
+    "sticks": {
+      "comment": "Allows the spawning of sticks.",
+      "value": false
+    }
+  }
+}
