@@ -16,11 +16,11 @@
 
 	[ores.electrotine]
 		#Range: 0 ~ 5
-		processingLevel = 5
+		processingLevel = 0
 
 	[ores.crimson_iron]
 		#Range: 0 ~ 5
-		processingLevel = 5
+		processingLevel = 0
 
 	[ores.titanium]
 		#Range: 0 ~ 5
@@ -28,7 +28,7 @@
 
 	[ores.green_sapphire]
 		#Range: 0 ~ 5
-		processingLevel = 5
+		processingLevel = 0
 
 	[ores.cobalt]
 		#Range: 0 ~ 5
@@ -40,19 +40,19 @@
 
 	[ores.amethyst]
 		#Range: 0 ~ 5
-		processingLevel = 5
+		processingLevel = 0
 
 	[ores.cinnabar]
 		#Range: 0 ~ 5
-		processingLevel = 5
+		processingLevel = 0
 
 	[ores.apatite]
 		#Range: 0 ~ 5
-		processingLevel = 5
+		processingLevel = 0
 
 	[ores.iridium]
 		#Range: 0 ~ 5
-		processingLevel = 5
+		processingLevel = 0
 
 	[ores.lithium]
 		#Range: 0 ~ 5
@@ -64,15 +64,15 @@
 
 	[ores.tungsten]
 		#Range: 0 ~ 5
-		processingLevel = 5
+		processingLevel = 0
 
 	[ores.peridot]
 		#Range: 0 ~ 5
-		processingLevel = 5
+		processingLevel = 0
 
 	[ores.sulfur]
 		#Range: 0 ~ 5
-		processingLevel = 5
+		processingLevel = 0
 
 	[ores.lapis]
 		#exist for modpacks, set greater than 2 to enable this material recipes
@@ -85,15 +85,15 @@
 
 	[ores.zinc]
 		#Range: 0 ~ 5
-		processingLevel = 5
+		processingLevel = 0
 
 	[ores.sapphire]
 		#Range: 0 ~ 5
-		processingLevel = 5
+		processingLevel = 0
 
 	[ores.bort]
 		#Range: 0 ~ 5
-		processingLevel = 5
+		processingLevel = 0
 
 	[ores.nickel]
 		#Range: 0 ~ 5
@@ -101,7 +101,7 @@
 
 	[ores.azure_silver]
 		#Range: 0 ~ 5
-		processingLevel = 5
+		processingLevel = 0
 
 	[ores.quartz]
 		#exist for modpacks, set greater than 2 to enable this material recipes
@@ -114,11 +114,11 @@
 
 	[ores.draconium]
 		#Range: 0 ~ 5
-		processingLevel = 5
+		processingLevel = 0
 
 	[ores.ruby]
 		#Range: 0 ~ 5
-		processingLevel = 5
+		processingLevel = 0
 
 	[ores.diamond]
 		#exist for modpacks, set greater than 2 to enable this material recipes
@@ -131,19 +131,19 @@
 
 	[ores.dilithium]
 		#Range: 0 ~ 5
-		processingLevel = 5
+		processingLevel = 0
 
 	[ores.silicon]
 		#Range: 0 ~ 5
-		processingLevel = 5
+		processingLevel = 0
 
 	[ores.desh]
 		#Range: 0 ~ 5
-		processingLevel = 5
+		processingLevel = 0
 
 	[ores.niter]
 		#Range: 0 ~ 5
-		processingLevel = 5
+		processingLevel = 0
 
 	[ores.coal]
 		#exist for modpacks, set greater than 2 to enable this material recipes
@@ -178,5 +178,5 @@
 
 	[ores.bismuth]
 		#Range: 0 ~ 5
-		processingLevel = 5
+		processingLevel = 0
 
