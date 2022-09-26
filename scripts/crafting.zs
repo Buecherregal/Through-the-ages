@@ -2,9 +2,9 @@
 //recipes.remove(<item:forge:workbenches>);
 craftingTable.removeRecipe(<item:mekanism:steel_casing>);
 craftingTable.addShaped("steelcasing",<item:mekanism:steel_casing>,[
-[<tag:items:ingot/steel>,<tag:items:forge:glass>,<tag:items:ingot/steel>],
+[<tag:items:forge:ingots/steel>,<tag:items:forge:glass>,<tag:items:forge:ingots/steel>],
 [<tag:items:forge:glass>,<item:thermal:machine_frame>,<tag:items:forge:glass>],
-[<tag:items:ingot/steel>,<tag:items:forge:glass>,<tag:items:ingot/steel>]
+[<tag:items:forge:ingots/steel>,<tag:items:forge:glass>,<tag:items:forge:ingots/steel>]
 ]);
 craftingTable.removeRecipe(<item:industrialforegoing:machine_frame_pity>);
 craftingTable.addShaped("machineframepity",<item:industrialforegoing:machine_frame_pity>,[
