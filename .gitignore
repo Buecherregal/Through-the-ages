@@ -4,6 +4,8 @@ options.txt
 
 .curseclient
 
+usercache.json
+usernamecache.json
 minecraftinstance.json
 patchouli_data.json
 
