@@ -1,0 +1,39 @@
+{
+    "controllerId": "basic",
+    "name": "Basic",
+    "ports": [
+      {
+        "type": "masterfulmachinery:items",
+        "name": "Basic Item",
+        "id": "basic",
+        "data": {
+          "rows": 3,
+          "columns": 3
+        }
+      },
+      {
+        "type": "masterfulmachinery:energy",
+        "name": "Basic Energy",
+        "id": "chungus",
+        "data": {
+          "capacity": 1000000000
+        }
+      },
+      {
+        "type": "masterfulmachinery:fluids",
+        "name": "Small Fluid",
+        "id": "small",
+        "data": {
+          "capacity": 10000
+        }
+      },
+      {
+        "type": "masterfulmachinery:mekanism_gas",
+        "name": "Gassy",
+        "id": "gassy",
+        "data": {
+          "capacity": 100000
+        }
+      }
+    ]
+  }
